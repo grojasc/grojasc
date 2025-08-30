@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, data engineering, data architecture, Artificial Intelligence.
 - 🌱 I’m a Master in AI [PUC]
 - 💞️ I’m looking to collaborate on Data engineering Projects.
-- 📫 How to reach me by email: g.rojaschacon@gmail.com
+- 📫 How to reach me by email: gonzalo@valuedata.us
 
 <!---
 grojasc/grojasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
