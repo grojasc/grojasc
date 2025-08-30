@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grojasc
 - 👀 I’m interested in Data Science, data engineering, data architecture, Artificial Intelligence.
-- 🌱 I’m a Master in AI [PUC]
+- 🌱 I’m a Master in AI [PUC] & MBA (c) [UCHILE]
 - 💞️ I’m looking to collaborate on Data engineering Projects.
 - 📫 How to reach me by email: gonzalo@valuedata.us
 
