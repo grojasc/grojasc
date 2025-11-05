@@ -3,6 +3,8 @@
 - 🌱 I’m a Master in AI [PUC] & MBA (c) [UCHILE]
 - 💞️ I’m looking to collaborate on Data engineering Projects.
 - 📫 How to reach me by email: gonzalo@valuedata.us
+-  see my Site www.valuedata.cl
+  
 
 <!---
 grojasc/grojasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
